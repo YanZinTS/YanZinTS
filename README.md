@@ -18,4 +18,4 @@
     <img align="center" alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Gosto muito de tecnologia, aprender e programação.
+Gosto muito de tecnologia, aprender e sou amante da programação.
